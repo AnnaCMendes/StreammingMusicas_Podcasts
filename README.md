@@ -18,6 +18,7 @@
 <p align="justify">Seguindo a metodologia GRID, a criação de Uma página estática inspirada em uma plataforma de streamming de músicas e podcasts.</p>
 <p>Disponível apenas para Computadores, Celulares.</p>
 <a href="https://streamming-musicas-podcasts.vercel.app/">Veja aqui o projeto!</a>
+
 --------------------------------------------------------------------------------------------------------------------
 
 <h2>Definição do problema:</h2>
